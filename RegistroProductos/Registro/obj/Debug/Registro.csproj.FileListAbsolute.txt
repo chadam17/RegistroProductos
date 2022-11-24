@@ -1,0 +1,13 @@
+C:\Users\Estudiant\source\repos\Registro\Registro\bin\Debug\Registro.exe.config
+C:\Users\Estudiant\source\repos\Registro\Registro\bin\Debug\Registro.exe
+C:\Users\Estudiant\source\repos\Registro\Registro\bin\Debug\Registro.pdb
+C:\Users\Estudiant\source\repos\Registro\Registro\obj\Debug\Registro.csproj.AssemblyReference.cache
+C:\Users\Estudiant\source\repos\Registro\Registro\obj\Debug\Registro.FormAdd.resources
+C:\Users\Estudiant\source\repos\Registro\Registro\obj\Debug\Registro.Properties.Resources.resources
+C:\Users\Estudiant\source\repos\Registro\Registro\obj\Debug\Registro.csproj.GenerateResource.cache
+C:\Users\Estudiant\source\repos\Registro\Registro\obj\Debug\Registro.csproj.CoreCompileInputs.cache
+C:\Users\Estudiant\source\repos\Registro\Registro\obj\Debug\Registro.exe
+C:\Users\Estudiant\source\repos\Registro\Registro\obj\Debug\Registro.pdb
+C:\Users\Estudiant\source\repos\Registro\Registro\obj\Debug\Registro.FormMod.resources
+C:\Users\Estudiant\source\repos\Registro\Registro\obj\Debug\Registro.FormCheck.resources
+C:\Users\Estudiant\source\repos\Registro\Registro\obj\Debug\Registro.R.resources
